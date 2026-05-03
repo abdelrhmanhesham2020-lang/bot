@@ -1,4 +1,4 @@
-import discord
+ف import discord
 from discord.ext import commands
 import os
 
@@ -105,4 +105,3 @@ async def stop(interaction: discord.Interaction):
         await interaction.followup.send("مش شغال أصلاً")
 
 # ---------------- RUN ----------------
-bot.run("MTQ2MzIyNDY5MzY3MzY4OTEwMA.GHI9g_.qxI5KhxmPIlOXJx1v4YUBoltDtZY3zd_EsV5jo")
